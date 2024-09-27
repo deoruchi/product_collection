@@ -1,0 +1,11 @@
+-create a dummy componenet replica of design 
+drag and drop : https://www.youtube.com/watch?v=XlXT9lhy-4M
+- implement drag and drop first
+- delete and add operations (both in row and columns)
+- hover fucntionality
+- notifications
+
+
+Framework and libs used:
+- why framer motion? why not code and why not other same purpose lib?
+- 
