@@ -6,7 +6,7 @@ export const ProductLabel = (props) => {
     throw new Error("No data Found!!");
   }
 
-  // States: index(choosen) and labels(update)
+  // States: index and labels
   const [optionIndex, setOptionIndex] = useState(null);
   const [labels, setLabels] = useState(props.data);
 
